@@ -41,4 +41,4 @@ end = clock()
 
 ## Тесты
 
-![img](/img4.png)
+![img](/img5.png)
